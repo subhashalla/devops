@@ -1,1 +1,1 @@
-"THis is FileB" 
+"changes to fileB.txt" 
