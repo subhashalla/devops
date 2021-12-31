@@ -1,0 +1,25 @@
+Xwd!@Sh&1QW#Ex
+10.212.113.33:/share/interfaces/reports_PE3  /interfaces/reports  nfs4 _netdev,soft 0 0
+The GPG Encrypted string of Xwd!@Sh&1QW#Ex is
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2.0.22 (GNU/Linux)
+
+hQEMA43IgToaDWNoAQgAv8JkgCxGLAr2lGMkZOCoaDTETcLU+uhHwS9cTHvxXyAX
+E/9DM+b9xs7LvqbO7Rt1LWPJxdmBAoFBul9XrdJ0GiEpqym9NwpphQFhsMx3PGOR
+zMDKrp6r168p8cFJttcBdo8Fct40YLe58gJ8ZtdPp55vuaa6i91S9vm3NQO6J7UA
+UnYsw43WOdm71r8Ldnn5JDJ5t/EMEGS/WVmiSkY6yJWuQaY4kS7D6SfSRm8DYVxW
+b+72IEfITCCtCT5k31c6THymTyrwVCWttGIZm+iRRT+BuFT3Q68VwvGdBXVT3D6I
+19MU22uh/7fSEBkKWTDyuq39QvhKc+4FUZ1rtvL+h9JJARbbbL48r9xp53QLAkDq
+zFfHfCvCcE7LiMztl4TZ4XGOehoPG7jb0FOGR7pnjvtlgEioNeKN0MFpABSib0m0
+aMDJBk96yH4Lgw==
+=uUi3
+-----END PGP MESSAGE-----
+Xwd$@Sh&1QW#Ex
+
+beV$RyRH  -- vsadmin password for NIM002 VM
+ABB RHEL 7.7 Linux NIM hum build is completed.
+
+VM_Name : A0NNUS044NIM002              
+Hostname :A0NNUS044NIM802 
+IP :  10.212.112.8
